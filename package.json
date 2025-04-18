@@ -1,0 +1,10 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.5.13"
+  }
+}
